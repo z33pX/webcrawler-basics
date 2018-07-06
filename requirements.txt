@@ -1,0 +1,15 @@
+beautifulsoup4==4.6.0
+boilerpipe3==1.1
+bs4==0.0.1
+certifi==2018.4.16
+charade==1.0.3
+chardet==3.0.4
+coloredlogs==10.0
+humanfriendly==4.12.1
+idna==2.7
+JPype1-py3==0.5.5.2
+lxml==4.2.3
+nltk==3.3
+requests==2.19.1
+six==1.11.0
+urllib3==1.23
