@@ -9,7 +9,7 @@ humanfriendly==4.12.1
 idna==2.7
 JPype1-py3==0.5.5.2
 lxml==4.2.3
-nltk==3.3
+nltk==3.4.5
 requests==2.19.1
 six==1.11.0
 urllib3==1.23
